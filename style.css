@@ -2,6 +2,7 @@
     max-width: 960px;
     margin: 0 auto;
 }
+
 .twitter {
     transform: scale(0.8);
     /* サイズの拡大縮小の基準位置を決めるcss */
